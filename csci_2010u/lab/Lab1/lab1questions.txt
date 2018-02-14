@@ -1,0 +1,12 @@
+Exercise 3
+1) Is there an error? Yes, "1 > 2" is not a statement and "ea + 2" is logically incorrect.
+
+2) Where is it? "1 > 2" is on line 13 and "ea + 2" is  on line 10
+
+3) How to fix it? For "1 > 2" just comment it out and for "ea + 2" put it within parantheses 
+so that the values are added instead of just displayed side by side.
+
+Exercise 5
+1) How many classes in this program? 2 classes
+
+2) Where is the entry point of this program? public static void main (String[] args)
